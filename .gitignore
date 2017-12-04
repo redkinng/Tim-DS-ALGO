@@ -5,3 +5,5 @@ modules.xml
 project-template.xml
 vcs.xml
 workspace.xml
+Main.class
+*.class
